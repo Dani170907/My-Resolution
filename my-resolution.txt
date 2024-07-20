@@ -1,4 +1,3 @@
 MY RESOLUTION
 - Menguasasi PHP Dasar di Tahun ini
 - Mampu mempelajari Frame Work CSS, PHP OOP, MVC, CodeIgniter dan Laravel
-- Bisa Bersaing di kejuaraan Lomba Kompetensi Siswa (LKS) di Tahun 2025
