@@ -1,2 +1,2 @@
 # My-Resolution
-Repository untuk menyimpan rencana
+REPOSITORY UNTUK MENYIMPAN RENCANA KEDEPANNYA
