@@ -1,5 +1,9 @@
 RENCANA LOMBA KOMPETENSI SISWA
 
-- Mempelajari Materi yang harus dipelajari
-- Konsiten dalam belajar
-- Mempersiapkan Diri
+1. Pemahaman Materi dan Penguasaan
+
+- PHP OOP: Memahami konsep Object-Oriented Programming (OOP) dalam PHP, termasuk kelas, objek, pewarisan, enkapsulasi,                   polimorfisme, dan abstraksi.
+- Database MySQL: Menguasai operasi CRUD, query lanjutan, joins, indexing, dan stored procedures.
+- JavaScript Dasar: Syntax dasar, variabel, operator, kontrol alur, looping, fungsi, dan manipulasi DOM.
+- Laravel: Instalasi dan konfigurasi, routing, controllers, Blade templating, database migrations, Eloquent ORM, middleware, form        validation, file uploads, authentication, authorization, dan RESTful API development.
+- CSS dan Framework CSS: Penggunaan CSS dasar dan framework
