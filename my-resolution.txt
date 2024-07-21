@@ -1,5 +1,6 @@
-MY RESOLUTION
-- Menguasasi PHP Dasar di Tahun ini
+MY RESOLUTION & TARGET
+- Menguasasi PHP Dasar & MySQL di Tahun ini
 - Mampu mempelajari Frame Work CSS, PHP OOP, MVC, CodeIgniter dan Laravel
 - Mempelajari Materi yang harus dipelajari
+- Latihan Intensif
 - Bisa bersaing di Lomba Kompetensi Siswa (LKS) mewakili Kota Pekalongan di Tahun 2025
